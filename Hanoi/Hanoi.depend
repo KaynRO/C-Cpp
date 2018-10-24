@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523570073 source:/root/Documents/Laptop/C/Hanoi/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
