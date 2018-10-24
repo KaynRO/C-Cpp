@@ -1,0 +1,13 @@
+==1698== 6,120 (288 direct, 5,832 indirect) bytes in 12 blocks are definitely lost in loss record 104 of 106
+==1698==    at 0x4C2CB8F: malloc (vg_replace_malloc.c:299)
+==1698==    by 0x108AC7: makeNode (in /root/Documents/Laptop/C/ArboriExpresie/arbori/tema3)
+==1698==    by 0x10912B: makeBinaryTree (in /root/Documents/Laptop/C/ArboriExpresie/arbori/tema3)
+==1698==    by 0x1094B8: solve (in /root/Documents/Laptop/C/ArboriExpresie/arbori/tema3)
+==1698==    by 0x109854: read (in /root/Documents/Laptop/C/ArboriExpresie/arbori/tema3)
+==1698==    by 0x1098DA: main (in /root/Documents/Laptop/C/ArboriExpresie/arbori/tema3)
+==1698== 
+==1698== 524,400 (16 direct, 524,384 indirect) bytes in 1 blocks are definitely lost in loss record 106 of 106
+==1698==    at 0x4C2CB8F: malloc (vg_replace_malloc.c:299)
+==1698==    by 0x108B18: htCreate (in /root/Documents/Laptop/C/ArboriExpresie/arbori/tema3)
+==1698==    by 0x1098B1: main (in /root/Documents/Laptop/C/ArboriExpresie/arbori/tema3)
+==1698== 
