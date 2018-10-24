@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1525722273 source:/root/Documents/Laptop/C/ArboriExpresie/arbori/main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<limits.h>
-	<math.h>
-
