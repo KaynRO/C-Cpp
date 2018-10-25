@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520089752 source:/root/Documents/Laptop/C++/ALGORITMI/FifaFafa/main.cpp
+	<iostream>
+	<iomanip>
+	<bits/stdc++.h>
+

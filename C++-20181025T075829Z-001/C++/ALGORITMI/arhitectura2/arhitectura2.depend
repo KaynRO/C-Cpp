@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1453363549 source:/root/Desktop/C++/CODEGAME/arhitectura2/main.cpp
+	<fstream>
+	<cstdio>
+	<algorithm>
+	<vector>
+

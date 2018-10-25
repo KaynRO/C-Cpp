@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1455280167 source:/root/Desktop/C++/CUPLAJ MAXIM DE COST MINIM/main.cpp
+	<fstream>
+	<queue>
+	<vector>
+	<cstring>
+

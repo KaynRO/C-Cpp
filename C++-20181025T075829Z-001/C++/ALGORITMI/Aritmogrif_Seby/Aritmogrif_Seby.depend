@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462712941 source:c:\users\andrew\desktop\c++\aritmogrif_seby\main.cpp
+	<fstream>
+	<iostream>
+	<conio.h>
+	<ctime>
+	<windows.h>
+

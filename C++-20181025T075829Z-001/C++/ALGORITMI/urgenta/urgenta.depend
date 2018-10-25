@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1456040447 source:/root/Desktop/C++/urgenta/main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+	<bitset>
+
+1456040446 source:c:\users\andrew\desktop\c++\urgenta\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+	<bitset>
+

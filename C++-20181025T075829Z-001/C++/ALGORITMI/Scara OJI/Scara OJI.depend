@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1456886454 source:c:\users\andrew\desktop\c++\scara oji\scara3.in.c
+
+1456886459 source:c:\users\andrew\desktop\c++\scara oji\scara3.out.c
+
+1456891592 source:c:\users\andrew\desktop\c++\scara oji\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstring>
+	<bitset>
+	<queue>
+	<utility>
+	<map>
+

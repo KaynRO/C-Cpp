@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1457576770 source:c:\users\andrew\desktop\c++\joctv\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstring>
+

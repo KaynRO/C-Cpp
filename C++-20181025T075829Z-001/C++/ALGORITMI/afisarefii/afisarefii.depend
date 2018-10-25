@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453876399 source:/root/Desktop/C++/CODEGAME/afisarefii/main.cpp
+	<fstream>
+	<vector>
+

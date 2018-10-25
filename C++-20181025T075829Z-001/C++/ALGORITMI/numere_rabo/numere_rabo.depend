@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509794794 source:c:\users\grigoras\desktop\work\c++\algoritmi\numere_rabo\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+	<bitset>
+

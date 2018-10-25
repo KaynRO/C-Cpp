@@ -1,0 +1,16 @@
+Edit Distance 
+
+Se dau 2 siruri de caractere a, b. Sirul 1 se numeste sursa iar al doilea destinatie.Scopul este transformam sirul sursa in sirul destinatie cu un cost minim cu 
+urmatoarele operatii
+1.copy ( caracterul curent din sursa este copiat in destinatie )
+2.insert ( caracterul curent din destinatia este copiat in destinatie )
+3.delete ( sar peste caracterul curent din sursa )
+4.replace ( trece peste caracterul curent din sursa si copiez caracterul curent din destinatie )
+5.twiddle ( caracterul curent din sursa si urmatorul sunt copiate invers in destinatie )
+6.kill ( sare peste toate caracterele de dupa )
+
+if ( s[i] == d[j] ) copy
+if ( s[i] == d[ j + 1 ] && s[ i + 1 ] = d[j] ) twiddle
+
+Subproblema 
+-sa se determine costul minim al transformarii sufixului s care incepe la pozitia i in sufixul lui d care incepe la pozitia j

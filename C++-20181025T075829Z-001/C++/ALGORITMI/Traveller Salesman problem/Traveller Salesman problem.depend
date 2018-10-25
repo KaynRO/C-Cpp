@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1457331272 source:c:\users\andrew\desktop\c++\traveller salesman problem\main.cpp
+	<fstream>
+	<bitset>
+	<vector>
+	<queue>
+	<string>
+	<cstring>
+	<utility>
+

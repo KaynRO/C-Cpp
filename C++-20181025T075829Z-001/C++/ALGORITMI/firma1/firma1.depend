@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1453916276 source:/root/Desktop/C++/CODEGAME/firma1/main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<utility>
+	<algorithm>
+	<iostream>
+

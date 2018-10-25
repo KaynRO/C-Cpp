@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525286406 source:/root/Documents/Laptop/C++/ALGORITMI/pawns/main.cpp
+	<fstream>
+	<bits/stdc++.h>
+

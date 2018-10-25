@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1455107210 source:/root/Desktop/C++/arbore-infoarena/main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+	<bitset>
+

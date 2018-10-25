@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459458998 source:c:\users\andrew\desktop\c++\jaf\main.cpp
+	<fstream>
+	<bitset>
+	<vector>
+

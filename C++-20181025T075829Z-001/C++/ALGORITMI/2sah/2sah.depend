@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453805088 source:/root/Desktop/C++/CODEGAME/2sah/main.cpp
+	<fstream>
+	<algorithm>
+	<cstring>
+

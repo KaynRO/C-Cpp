@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447576179 source:/root/Desktop/C++/backtracking/main.cpp
+	<fstream>
+	<cmath>
+	<cstdlib>
+

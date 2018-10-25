@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1462906913 source:c:\users\andrew\desktop\c++\poo-matrice\main.cpp
+	"Matrix.h"
+
+1462906858 source:c:\users\andrew\desktop\c++\poo-matrice\matrix.cpp
+	"Matrix.h"
+
+1462906762 c:\users\andrew\desktop\c++\poo-matrice\matrix.h
+	<fstream>
+

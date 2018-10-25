@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1458424760 source:c:\users\andrew\desktop\c++\hamiltonia\main.cpp
+	<fstream>
+	<vector>
+	<iostream>
+	<cstring>
+	<cmath>
+

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1523369995 source:/root/Documents/Laptop/C++/ALGORITMI/TurnurileHanoi/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1523215857 /root/Documents/Laptop/C++/ALGORITMI/TurnurileHanoi/TCoada.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+
+1523215860 /root/Documents/Laptop/C++/ALGORITMI/TurnurileHanoi/TStiva.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+
+1523368756 source:/root/Documents/Laptop/C++/ALGORITMI/TurnurileHanoi/functiiCoada-V.c
+	"TCoada-V.h"
+
+1523367977 /root/Documents/Laptop/C++/ALGORITMI/TurnurileHanoi/TCoada-V.h
+	"TCoada.h"
+
+1523369209 source:/root/Documents/Laptop/C++/ALGORITMI/TurnurileHanoi/functiiStiva-V.c
+	"TStiva-V.h"
+	<stdio.h>
+
+1523369777 /root/Documents/Laptop/C++/ALGORITMI/TurnurileHanoi/TStiva-V.h
+	<stdio.h>
+

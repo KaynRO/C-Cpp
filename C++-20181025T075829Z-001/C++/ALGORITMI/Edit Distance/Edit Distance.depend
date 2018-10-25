@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1479815330 source:c:\users\grigoras\desktop\work\c++\algoritmi\edit distance\main.cpp
+	<fstream>
+	<cstring>
+	<cstdio>
+	<string>
+

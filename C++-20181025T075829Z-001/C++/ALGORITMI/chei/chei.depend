@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449130637 source:/root/Desktop/C++/chei/main.cpp
+	<fstream>
+	<queue>
+

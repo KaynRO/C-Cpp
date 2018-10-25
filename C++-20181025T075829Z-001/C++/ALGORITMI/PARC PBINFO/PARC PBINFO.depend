@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1455883331 source:/root/Desktop/C++/PARC PBINFO/main.cpp
+	<fstream>
+	<vector>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1455273299 source:/root/Desktop/C++/CUPLAJ MAXIM IN GRAF BIPARTIT/main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+	<queue>
+	<cstring>
+

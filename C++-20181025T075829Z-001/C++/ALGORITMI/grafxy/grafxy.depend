@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1448824367 source:/root/Desktop/C++/grafxy/main.cpp
+	<fstream>
+	<queue>
+	<vector>
+	<cstring>
+
+1456430967 source:c:\users\j\desktop\c++\grafxy\main.cpp
+	<fstream>
+	<queue>
+	<vector>
+	<cstring>
+	<bitset>
+

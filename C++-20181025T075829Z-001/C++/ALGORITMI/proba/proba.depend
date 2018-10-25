@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477851619 source:c:\users\grigoras\desktop\work\c++\algoritmi\proba\main.cpp
+	<vector>
+	<algorithm>
+	<iostream>
+

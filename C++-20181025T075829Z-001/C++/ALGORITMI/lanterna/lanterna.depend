@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1451058382 source:/root/Desktop/C++/lanterna/main.cpp
+	<fstream>
+	<cstdio>
+	<map>
+	<vector>
+	<queue>
+	<utility>
+	<cstring>
+	<algorithm>
+
+1456411290 source:c:\users\j\desktop\c++\lanterna\main.cpp
+	<fstream>
+	<cmath>
+	<cstring>
+	<queue>
+	<vector>
+	<bitset>
+	<utility>
+
+1488795964 source:c:\users\grigoras\desktop\work\c++\algoritmi\lanterna\main.cpp
+	<bits/stdc++.h>
+

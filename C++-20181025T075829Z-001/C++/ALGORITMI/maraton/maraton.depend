@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477988084 source:c:\users\grigoras\desktop\work\c++\algoritmi\maraton\main.cpp
+	<fstream>
+	<cmath>
+

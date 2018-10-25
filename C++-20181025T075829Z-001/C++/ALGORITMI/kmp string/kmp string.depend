@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1454784402 source:/root/Desktop/C++/CODEGAME/kmp string/main.cpp
+	<fstream>
+	<algorithm>
+	<vector>
+	<string>
+

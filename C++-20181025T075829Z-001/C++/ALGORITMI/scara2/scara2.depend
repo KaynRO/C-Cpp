@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1450389728 source:/root/Desktop/C++/scara2/main.cpp
+	<fstream>
+	<cstring>
+	<deque>
+	<queue>
+	<vector>
+	<algorithm>
+	<utility>
+

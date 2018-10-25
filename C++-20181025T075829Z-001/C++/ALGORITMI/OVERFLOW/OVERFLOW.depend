@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452712471 source:/root/Desktop/C++/CODEGAME/OVERFLOW/main.cpp
+	<iostream>
+	<climits>
+	<cmath>
+

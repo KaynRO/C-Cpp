@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458716456 source:c:\users\andrew\desktop\c++\combo\main.cpp
+	<fstream>
+	<vector>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1486070556 source:c:\users\grigoras\desktop\work\c++\algoritmi\statiuni\main.cpp
+	<fstream>
+	<queue>
+	<vector>
+	<cstdio>
+	<utility>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1450247197 source:/root/Desktop/C++/2k-numere/main.cpp
+	<fstream>
+	<map>
+	<vector>
+	<algorithm>
+
+1450273582 source:/root/Documents/Laptop/C++/ALGORITMI/2k-numere/main.cpp
+	<fstream>
+	<map>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1449501186 source:/root/Desktop/C++/dezbateri/main.cpp
+	<fstream>
+	<queue>
+	<cstring>
+	<cstdlib>
+	<vector>
+
+1457975025 source:c:\users\andrew\desktop\c++\dezbateri\main.cpp
+	<fstream>
+	<vector>
+	<cstring>
+	<cstdlib>
+

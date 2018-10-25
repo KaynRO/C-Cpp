@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450203263 source:/root/Desktop/C++/stl:map/main.cpp
+	<fstream>
+	<map>
+	<algorithm>
+

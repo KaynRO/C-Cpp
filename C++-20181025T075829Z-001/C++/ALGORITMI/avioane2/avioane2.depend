@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1457483994 source:c:\users\andrew\desktop\c++\avioane2\main.cpp
+	<fstream>
+	<map>
+	<vector>
+	<set>
+	<utility>
+	<queue>
+	<bitset>
+	<cstring>
+	<algorithm>
+

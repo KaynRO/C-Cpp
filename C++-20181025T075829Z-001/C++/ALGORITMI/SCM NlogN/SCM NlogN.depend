@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476398688 source:c:\users\grigoras\desktop\c++\algoritmi\scm nlogn\main.cpp
+	<cstdio>
+	<algorithm>
+	<vector>
+

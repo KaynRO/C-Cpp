@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1459101068 source:c:\users\andrew\desktop\c++\hektor\main.cpp
+	<fstream>
+	<vector>
+	<iomanip>
+	<bitset>
+

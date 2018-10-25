@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447931578 source:/root/Desktop/C++/telefon/main.cpp
+	<fstream>
+	<vector>
+	<queue>
+

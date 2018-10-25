@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1449083112 source:/root/Desktop/C++/arthur/main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<cstring>
+	<algorithm>
+	<utility>
+

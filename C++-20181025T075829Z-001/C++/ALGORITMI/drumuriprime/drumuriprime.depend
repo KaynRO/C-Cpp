@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458824976 source:c:\users\andrew\desktop\c++\drumuriprime\main.cpp
+	<fstream>
+	<vector>
+	<cstring>
+

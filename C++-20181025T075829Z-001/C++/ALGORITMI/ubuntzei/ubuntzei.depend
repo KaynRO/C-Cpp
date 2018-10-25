@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1457381103 source:c:\users\andrew\desktop\c++\ubuntzei\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<cstring>
+	<utility>
+
+1488463133 source:c:\users\grigoras\desktop\work\c++\algoritmi\ubuntzei\main.cpp
+	<bits/stdc++.h>
+

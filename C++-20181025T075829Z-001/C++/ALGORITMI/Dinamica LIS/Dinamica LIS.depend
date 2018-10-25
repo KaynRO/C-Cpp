@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1476184421 source:c:\users\grigoras\desktop\c++\algoritmi\dinamica lis\main.cpp
+	<fstream>
+	<algorithm>
+
+1476186003 source:c:\users\grigoras\desktop\work\c++\algoritmi\dinamica lis\main.cpp
+	<fstream>
+	<algorithm>
+

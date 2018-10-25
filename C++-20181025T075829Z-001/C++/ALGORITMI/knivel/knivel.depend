@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453887274 source:/root/Desktop/C++/CODEGAME/knivel/main.cpp
+	<fstream>
+	<vector>
+	<queue>
+

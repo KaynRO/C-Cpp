@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460529965 source:c:\users\andrew\desktop\c++\muguri\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

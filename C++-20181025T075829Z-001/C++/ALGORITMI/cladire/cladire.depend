@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453299066 source:/root/Desktop/C++/CODEGAME/cladire/main.cpp
+	<fstream>
+	<algorithm>
+

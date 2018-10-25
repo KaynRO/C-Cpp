@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1450251142 source:/root/Desktop/C++/trmv/main.cpp
+	<fstream>
+	<algorithm>
+	<deque>
+	<vector>
+	<map>
+	<utility>
+	<cstring>
+

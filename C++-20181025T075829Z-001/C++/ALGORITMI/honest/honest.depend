@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1447925982 source:/root/Desktop/C++/honest/main.cpp
+	<fstream>
+	<queue>
+	<vector>
+	<cstdio>
+	<utility>
+	<cstring>
+
+1488269362 source:c:\users\grigoras\desktop\work\c++\algoritmi\honest\main.cpp
+	<fstream>
+	<queue>
+	<vector>
+	<cstdio>
+	<utility>
+	<cstring>
+

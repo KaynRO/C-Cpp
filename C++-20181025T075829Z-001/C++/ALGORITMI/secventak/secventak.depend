@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453270232 source:/root/Desktop/C++/CODEGAME/secventak/main.cpp
+	<fstream>
+	<algorithm>
+	<cstring>
+

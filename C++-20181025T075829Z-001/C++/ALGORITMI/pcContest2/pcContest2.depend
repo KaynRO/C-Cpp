@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507369204 source:c:\users\grigoras\desktop\work\c++\algoritmi\pccontest2\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+

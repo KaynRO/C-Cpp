@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1457602558 source:c:\users\andrew\desktop\c++\maxsubsum\main.cpp
+	<fstream>
+	<cstring>
+	<algorithm>
+	<climits>
+
+1457602558 source:c:\users\grigoras\desktop\work\c++\algoritmi\maxsubsum\main.cpp
+	<fstream>
+	<cstring>
+	<algorithm>
+	<climits>
+

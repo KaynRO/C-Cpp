@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1455831333 source:/root/Desktop/C++/zapada/main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

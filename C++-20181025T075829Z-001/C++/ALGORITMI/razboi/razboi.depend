@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449669170 source:/root/Desktop/C++/razboi/main.cpp
+	<fstream>
+	<algorithm>
+

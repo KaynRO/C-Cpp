@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1455881978 source:/root/Desktop/C++/FIRMA PBINFO/main.cpp
+	<fstream>
+	<vector>
+

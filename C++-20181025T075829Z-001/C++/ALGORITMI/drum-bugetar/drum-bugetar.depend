@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1487068396 source:c:\users\grigoras\desktop\work\c++\algoritmi\drum-bugetar\main.cpp
+	<fstream>
+	<queue>
+	<utility>
+	<cstdio>
+	<vector>
+

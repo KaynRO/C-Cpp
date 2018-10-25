@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453886460 source:/root/Desktop/C++/CODEGAME/frunze.in/main.cpp
+	<fstream>
+	<vector>
+

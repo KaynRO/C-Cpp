@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1447344259 source:/root/Desktop/C++/piscina/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<cmath>
+	<fstream>
+

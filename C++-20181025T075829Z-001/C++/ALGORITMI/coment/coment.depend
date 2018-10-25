@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446982595 source:/root/Desktop/C++/coment/main.cpp
+	<fstream>
+	<vector>
+	<cstring>
+

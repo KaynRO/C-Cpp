@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508930962 source:c:\users\grigoras\desktop\work\c++\algoritmi\parola\main.cpp
+	<fstream>
+	<cstdio>
+	<cstring>
+

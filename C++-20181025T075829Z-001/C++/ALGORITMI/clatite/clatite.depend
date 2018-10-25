@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456296070 source:/root/Desktop/C++/clatite/main.cpp
+	<fstream>
+	<cmath>
+	<iostream>
+

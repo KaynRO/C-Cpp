@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1455469825 source:/root/Desktop/C++/FLUX MAXIM COST MINIM/main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<bitset>
+	<algorithm>
+	<cstring>
+

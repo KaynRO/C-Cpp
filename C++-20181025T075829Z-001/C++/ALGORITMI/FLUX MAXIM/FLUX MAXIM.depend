@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1454921652 source:/root/Desktop/C++/CODEGAME/FLUX MAXIM/main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<cstring>
+	<utility>
+	<vector>
+	<bitset>
+	<queue>
+
+1454947366 source:/root/Documents/Laptop/C++/ALGORITMI/FLUX MAXIM/main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<cstring>
+	<utility>
+	<vector>
+	<bitset>
+	<queue>
+

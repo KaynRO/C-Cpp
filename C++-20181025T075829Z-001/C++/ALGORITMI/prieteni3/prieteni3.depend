@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447093254 source:/root/Desktop/C++/prieteni3/main.cpp
+	<fstream>
+	<vector>
+

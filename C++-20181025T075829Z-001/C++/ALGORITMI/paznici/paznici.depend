@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452762098 source:/root/Desktop/C++/paznici/main.cpp
+	<fstream>
+	<queue>
+	<algorithm>
+	<cstring>
+

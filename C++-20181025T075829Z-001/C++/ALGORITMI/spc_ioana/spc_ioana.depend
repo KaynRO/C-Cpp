@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485851852 source:c:\users\grigoras\desktop\work\c++\algoritmi\spc_ioana\main.cpp
+	<fstream>
+	<cstring>
+

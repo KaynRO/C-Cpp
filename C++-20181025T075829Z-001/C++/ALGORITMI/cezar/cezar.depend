@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1453658858 source:/root/Desktop/C++/CODEGAME/cezar/main.cpp
+	<fstream>
+	<algorithm>
+	<vector>
+	<set>
+	<cstring>
+
+1457296285 source:c:\users\andrew\desktop\c++\cezar\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+

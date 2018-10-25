@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448782796 source:/root/Desktop/C++/festival/main.cpp
+	<fstream>
+	<cstring>
+	<queue>
+

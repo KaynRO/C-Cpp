@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449406011 source:/root/Desktop/C++/infinitepattermatching/main.cpp
+	<fstream>
+	<cstring>
+

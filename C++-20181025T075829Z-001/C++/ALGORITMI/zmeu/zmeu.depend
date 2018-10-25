@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1450709424 source:/root/Desktop/C++/zmeu/main.cpp
+	<fstream>
+	<queue>
+	<map>
+	<vector>
+	<utility>
+	<cstring>
+	<algorithm>
+

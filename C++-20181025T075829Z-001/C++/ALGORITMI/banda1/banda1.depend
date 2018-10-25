@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448785123 source:/root/Desktop/C++/banda1/main.cpp
+	<fstream>
+	<cmath>
+

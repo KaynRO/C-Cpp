@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1456965113 source:c:\users\andrew\desktop\c++\infasuratoare convexa\main.cpp
+	<cstdio>
+	<algorithm>
+	<fstream>
+	<iomanip>
+
+1487332590 source:c:\users\grigoras\desktop\work\c++\algoritmi\infasuratoare convexa\main.cpp
+	<cstdio>
+	<algorithm>
+	<fstream>
+	<iomanip>
+

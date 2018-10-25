@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478000833 source:c:\users\grigoras\desktop\work\c++\algoritmi\codul\main.cpp
+	<fstream>
+	<cstring>
+

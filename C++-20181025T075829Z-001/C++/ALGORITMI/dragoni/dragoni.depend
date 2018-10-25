@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1449605881 source:/root/Desktop/C++/dragoni/main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<algorithm>
+	<utility>
+
+1487699144 source:c:\users\grigoras\desktop\work\c++\algoritmi\dragoni\main.cpp
+	<bits/stdc++.h>
+

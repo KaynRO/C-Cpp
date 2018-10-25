@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1456297843 source:/root/Desktop/C++/inordine/main.cpp
+	<fstream>
+	<queue>
+	<cstring>
+	<vector>
+	<bitset>
+	<utility>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1448433367 source:/root/Desktop/C++/turn1/main.cpp
+	<fstream>
+	<vector>
+	<queue>
+
+1458029074 source:c:\users\andrew\desktop\c++\turn1\main.cpp
+	<fstream>
+	<vector>
+

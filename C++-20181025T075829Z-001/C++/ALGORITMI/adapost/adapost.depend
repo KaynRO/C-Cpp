@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1455290807 source:/root/Desktop/C++/adapost/main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<cstring>
+	<algorithm>
+	<iomanip>
+	<cmath>
+

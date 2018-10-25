@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448023884 source:/root/Desktop/C++/Auto/main.cpp
+	<fstream>
+	<cstdio>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1454665374 source:/root/Desktop/C++/CODEGAME/immortal/main.cpp
+	<fstream>
+	<cstring>
+	<algorithm>
+
+1457285573 source:c:\users\andrew\desktop\c++\immortal\main.cpp
+	<fstream>
+	<cstring>
+	<algorithm>
+

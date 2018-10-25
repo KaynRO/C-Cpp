@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1470670165 source:c:\users\grigoras\desktop\c++\algoritmi\uniform generator\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<vector>
+	<map>
+

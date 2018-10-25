@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Ilya_and_the_tree.dir/main.cpp.o  -o Ilya_and_the_tree 

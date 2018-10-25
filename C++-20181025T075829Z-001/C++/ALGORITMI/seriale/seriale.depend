@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1449401237 source:/root/Desktop/C++/seriale/main.cpp
+	<fstream>
+	<cstring>
+	<algorithm>
+	<vector>
+

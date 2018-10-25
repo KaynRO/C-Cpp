@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1450730201 source:/root/Desktop/C++/lanturi/main.cpp
+	<fstream>
+	<queue>
+	<vector>
+	<utility>
+	<cstring>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449740230 source:/root/Desktop/C++/lantmaxim/main.cpp
+	<fstream>
+	<queue>
+

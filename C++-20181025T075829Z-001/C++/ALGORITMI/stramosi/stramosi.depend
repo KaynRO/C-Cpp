@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1457204033 source:c:\users\andrew\desktop\c++\stramosi\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<algorithm>
+	<cstring>
+	<bitset>
+

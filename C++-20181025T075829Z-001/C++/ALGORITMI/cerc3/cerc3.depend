@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1456062276 source:/root/Desktop/C++/cerc3/main.cpp
+	<fstream>
+	<vector>
+	<map>
+	<algorithm>
+	<cstring>
+	<cmath>
+

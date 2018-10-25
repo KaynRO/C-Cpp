@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459414867 source:c:\users\andrew\desktop\c++\galaxia\main.cpp
+	<fstream>
+	<vector>
+	<cstring>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458808662 source:c:\users\andrew\desktop\c++\stegulete\main.cpp
+	<fstream>
+	<vector>
+

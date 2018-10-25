@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517863471 source:c:\users\grigoras\desktop\work\c++\algoritmi\pcazi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

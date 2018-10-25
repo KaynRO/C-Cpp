@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1453915316 source:/root/Desktop/C++/CODEGAME/inaltime/main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<utility>
+	<algorithm>
+

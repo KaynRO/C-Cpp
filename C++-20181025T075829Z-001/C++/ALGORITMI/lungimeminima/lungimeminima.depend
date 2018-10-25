@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447270628 source:/root/Desktop/C++/lungimeminima/main.cpp
+	<fstream>
+	<queue>
+

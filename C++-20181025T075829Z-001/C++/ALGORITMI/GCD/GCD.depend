@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513783402 source:c:\users\grigoras\desktop\work\c++\algoritmi\gcd\main.cpp
+	<fstream>
+	<cstdio>
+	<algorithm>
+

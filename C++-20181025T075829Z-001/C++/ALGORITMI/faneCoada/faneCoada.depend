@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510786904 source:c:\users\grigoras\desktop\work\c++\algoritmi\fanecoada\main.cpp
+	<iostream>
+	<queue>
+

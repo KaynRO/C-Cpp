@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513689472 source:c:\users\grigoras\desktop\work\c++\algoritmi\autobuze\main.cpp
+	<fstream>
+	<cstdio>
+	<vector>
+	<algorithm>
+

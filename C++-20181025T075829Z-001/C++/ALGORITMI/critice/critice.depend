@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1454938721 source:/root/Desktop/C++/critice/main.cpp
+	<fstream>
+	<queue>
+	<vector>
+	<bitset>
+	<cstring>
+	<algorithm>
+	<cmath>
+	<utility>
+

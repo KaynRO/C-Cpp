@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1487185754 source:c:\users\grigoras\desktop\work\c++\algoritmi\dmin\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<utility>
+	<cmath>
+

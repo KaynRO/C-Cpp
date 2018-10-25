@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524072856 source:/root/Documents/Laptop/C++/ALGORITMI/TheTime/main.cpp
+	<iostream>
+	<iomanip>
+

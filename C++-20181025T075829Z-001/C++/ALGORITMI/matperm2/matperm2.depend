@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487139494 source:c:\users\grigoras\desktop\work\c++\algoritmi\matperm2\main.cpp
+	<fstream>
+	<cstring>
+	<cstdio>
+

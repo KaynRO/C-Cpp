@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1457976616 source:c:\users\andrew\desktop\c++\dag\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<algorithm>
+	<cstdio>
+	<queue>
+

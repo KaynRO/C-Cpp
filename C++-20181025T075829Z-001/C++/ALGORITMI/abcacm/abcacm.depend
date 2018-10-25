@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509558830 source:c:\users\grigoras\desktop\work\c++\algoritmi\abcacm\main.cpp
+	<fstream>
+	<cstring>
+

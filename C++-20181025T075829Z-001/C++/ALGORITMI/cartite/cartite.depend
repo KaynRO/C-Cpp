@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1449265673 source:/root/Desktop/C++/cartite/main.cpp
+	<fstream>
+	<cstring>
+	<stack>
+	<vector>
+	<queue>
+	<utility>
+	<cstdio>
+	<cstdlib>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508951928 source:c:\users\grigoras\desktop\work\c++\algoritmi\granita\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

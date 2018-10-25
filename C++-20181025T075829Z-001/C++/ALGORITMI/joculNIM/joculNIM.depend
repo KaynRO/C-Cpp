@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525284867 source:/root/Documents/Laptop/C++/ALGORITMI/joculNIM/main.cpp
+	<fstream>
+	<bits/stdc++.h>
+

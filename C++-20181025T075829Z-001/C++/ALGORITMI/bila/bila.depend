@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1454074480 source:/root/Desktop/C++/CODEGAME/bila/main.cpp
+	<fstream>
+	<queue>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447827933 source:/root/Desktop/C++/bile1/main.cpp
+	<fstream>
+	<queue>
+	<cstring>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477378534 source:c:\users\grigoras\desktop\work\c++\algoritmi\myblis\main.cpp
+	<fstream>
+	<deque>
+	<cstring>
+

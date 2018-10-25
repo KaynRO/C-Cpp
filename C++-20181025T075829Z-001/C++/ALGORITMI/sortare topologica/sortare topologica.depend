@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447862149 source:/root/Desktop/C++/sortare topologica/main.cpp
+	<cstdio>
+	<fstream>
+

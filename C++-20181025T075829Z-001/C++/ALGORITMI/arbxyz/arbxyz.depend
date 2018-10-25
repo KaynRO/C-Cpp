@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457200283 source:c:\users\andrew\desktop\c++\arbxyz\main.cpp
+	<fstream>
+	<vector>
+	<bitset>
+	<queue>
+	<algorithm>
+

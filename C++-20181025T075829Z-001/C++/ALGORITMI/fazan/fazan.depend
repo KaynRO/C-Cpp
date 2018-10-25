@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1448707878 source:/root/Desktop/C++/fazan/main.cpp
+	<fstream>
+	<queue>
+	<cstring>
+
+1458076040 source:c:\users\andrew\desktop\c++\fazan\main.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	<map>
+	<string>
+	<cstdlib>
+
